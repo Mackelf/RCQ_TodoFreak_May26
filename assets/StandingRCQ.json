@@ -203,7 +203,7 @@
     "%JGO": "53.8%",
     "Decklist": "Samwise Combo",
     "keyCard": "Samwise Gamgee",
-    "imgRoute": "/assets/sam.jpg",
+    "imgRoute": "./assets/sam.jpg",
     "decklistUrl": "https://www.mtggoldfish.com/deck/7764403#paper",
     "Badge": ""
   }
