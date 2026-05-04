@@ -77,7 +77,7 @@
     "keyCard": "World Breaker",
     "imgRoute": "./assets/worldB.jpg",
     "decklistUrl": "https://moxfield.com/decks/5Chg4SlFHECryyZjT0pqAA",
-    "Badge": "T8"
+    "Badge": ""
   },
   {
     "Place": 6,
@@ -93,7 +93,7 @@
     "keyCard": "Guide of Souls",
     "imgRoute": "./assets/Guide.jpg",
     "decklistUrl": "https://www.mtggoldfish.com/deck/7764101#paper",
-    "Badge": "T8"
+    "Badge": ""
   },
   {
     "Place": 7,
@@ -109,7 +109,7 @@
     "keyCard": "Lord of Atlantis",
     "imgRoute": "./assets/LordJurel.jpg",
     "decklistUrl": "https://www.mtggoldfish.com/deck/7764285#paper",
-    "Badge": "T8"
+    "Badge": ""
   },
   {
     "Place": 8,
@@ -125,7 +125,7 @@
     "keyCard": "World Breaker",
     "imgRoute": "./assets/worldB.jpg",
     "decklistUrl": "https://www.mtggoldfish.com/deck/7764295#paper",
-    "Badge": "T8"
+    "Badge": ""
   },
   {
     "Place": 9,
